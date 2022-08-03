@@ -1,6 +1,6 @@
 # Régis THIÉRY
 
-- Enseignant-chercheur
+- Enseignant-chercheur universitaire
 - Projet en cours: Gertrude (application web pour l'administration de structures universitaires).
 - Développements de codes de calcul en thermodynamique des fluides (ébullition des systèmes eau-gaz-sels-hydrocarbures). Applications aux systèmes pétroliers, hydrothermaux et volcaniques. Projets: Lother, FIT-Oil, Fitane, Mater I, Mater II, etc.
 - Développeur de GEOD, logiciel de dessins et modélisations de coupes géologiques.
